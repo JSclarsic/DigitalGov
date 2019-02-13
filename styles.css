@@ -33,7 +33,7 @@ h1 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 75%;
+  width: 90%;
 }
 
 /*List styles, particularly for buttons */
@@ -60,4 +60,9 @@ li a {
 
 li a:hover {
   background-color: #111;
+}
+
+img {
+  padding:1px;
+  border:1px solid #021a40;
 }
